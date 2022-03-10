@@ -1,3 +1,8 @@
+## Project Photos
+
+![northwind](https://user-images.githubusercontent.com/81626732/157667202-1d5aee43-c07e-4f41-a3c5-029d0f22ad93.png)
+![Ekran görüntüsü 2022-03-10 160617](https://user-images.githubusercontent.com/81626732/157667964-a8832519-78e7-4f55-8cbf-596bdac039ae.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
